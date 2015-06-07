@@ -1,0 +1,1 @@
+A simulator of ships in maneuvers like Zig-Zag and Turning Circle
